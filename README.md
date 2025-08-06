@@ -143,7 +143,7 @@ Execute the below steps to start the Tomcat server
 
 Press q to exit the command.
 
-- sudo ufw allow 8080
+- sudo ufw allow 8000
 ```
 You can access Tomcat server on browser using URL http://your_server_ip:8080
 
